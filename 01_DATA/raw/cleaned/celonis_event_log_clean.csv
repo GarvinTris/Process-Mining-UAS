@@ -1,0 +1,1 @@
+event_id,case_id,Activity,Timestamp,Resource,Department,Facility,Vehicle Model,Trim Grade,labor_cost,material_cost,equipment_cost,overhead_cost,activity_total_cost,revenue_allocated,profit_contribution,activity_status,sla_violation,rework_flag,qc_bypass_flag,case_type,case_priority,case_complexity,location,vehicle_id

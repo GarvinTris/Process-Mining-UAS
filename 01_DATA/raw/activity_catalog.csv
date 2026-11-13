@@ -1,0 +1,36 @@
+activity,required_role,department_id,activity_sla_minutes,facility_type,revenue_recognition_flag,business_description
+Production Order Received,ERP Planner,DEP-01,100,,false,Completed manufacturing event: production order received
+Production Order Validated,ERP Planner,DEP-01,140,,false,Completed manufacturing event: production order validated
+Order Cancelled,ERP Planner,DEP-01,160,,false,Completed manufacturing event: order cancelled
+BOM and Routing Released,Manufacturing Engineer,DEP-02,160,,false,Completed manufacturing event: bom and routing released
+Materials Availability Checked,Material Planner,DEP-03,165,Material Planning Console,false,Completed manufacturing event: materials availability checked
+Supplier Shortage Resolved,Material Planner,DEP-03,260,Material Planning Console,false,Completed manufacturing event: supplier shortage resolved
+Parts Kitted,Warehouse Operator,DEP-04,250,Kitting Station,false,Completed manufacturing event: parts kitted
+Body Panels Stamped,Press Operator,DEP-05,270,Press Line,false,Completed manufacturing event: body panels stamped
+Body Welding Completed,Welding Technician,DEP-05,340,Welding Cell,false,Completed manufacturing event: body welding completed
+Body Dimensional Inspection,Quality Inspector,DEP-08,190,Metrology Station,false,Completed manufacturing event: body dimensional inspection
+Surface Preparation Completed,Paint Technician,DEP-06,290,Surface Prep Booth,false,Completed manufacturing event: surface preparation completed
+Primer Application Completed,Paint Technician,DEP-06,330,Paint Booth,false,Completed manufacturing event: primer application completed
+Color Coat Applied,Paint Technician,DEP-06,330,Paint Booth,false,Completed manufacturing event: color coat applied
+Paint Curing Completed,Paint Technician,DEP-06,450,Curing Oven,false,Completed manufacturing event: paint curing completed
+Paint Defect Inspection,Quality Inspector,DEP-08,220,Inspection Bay,false,Completed manufacturing event: paint defect inspection
+Paint Rework Completed,Paint Technician,DEP-06,480,Rework Booth,false,Completed manufacturing event: paint rework completed
+Chassis Assembly Completed,Assembly Technician,DEP-07,350,Chassis Line,false,Completed manufacturing event: chassis assembly completed
+Powertrain Installed,Assembly Technician,DEP-07,390,Assembly Line,false,Completed manufacturing event: powertrain installed
+Electrical Harness Installed,Assembly Technician,DEP-07,330,Assembly Line,false,Completed manufacturing event: electrical harness installed
+Interior Assembly Completed,Assembly Technician,DEP-07,420,Interior Station,false,Completed manufacturing event: interior assembly completed
+Software Configuration Loaded,Software Technician,DEP-07,210,Programming Station,false,Completed manufacturing event: software configuration loaded
+ADAS Calibration Completed,Calibration Engineer,DEP-07,330,Calibration Bay,false,Completed manufacturing event: adas calibration completed
+Final Torque Verification,Quality Inspector,DEP-08,230,Inspection Bay,false,Completed manufacturing event: final torque verification
+End-of-Line Electrical Test,Test Engineer,DEP-08,360,Test Rig,false,Completed manufacturing event: end-of-line electrical test
+Dynamic Road Test,Test Engineer,DEP-08,300,Test Track,false,Completed manufacturing event: dynamic road test
+Vehicle Defect Rectified,Repair Technician,DEP-09,380,Repair Bay,false,Completed manufacturing event: vehicle defect rectified
+Final Quality Gate Approved,Quality Inspector,DEP-08,230,Inspection Bay,false,Completed manufacturing event: final quality gate approved
+Production Scrapped,Manufacturing Engineer,DEP-02,200,,false,Completed manufacturing event: production scrapped
+Vehicle Wash and Detailing,Logistics Operator,DEP-10,260,Detailing Bay,false,Completed manufacturing event: vehicle wash and detailing
+Vehicle Dispatch Authorized,Logistics Operator,DEP-10,200,Dispatch Dock,false,Completed manufacturing event: vehicle dispatch authorized
+Vehicle Delivered,Logistics Operator,DEP-10,350,Dispatch Dock,true,Completed manufacturing event: vehicle delivered
+Sales Invoice Posted,Finance Officer,DEP-11,200,,false,Completed manufacturing event: sales invoice posted
+Customer Payment Applied,Finance Officer,DEP-11,220,,false,Completed manufacturing event: customer payment applied
+Authorized Sales Credit,Finance Officer,DEP-11,180,,false,Completed manufacturing event: authorized sales credit
+Production Order Closed,ERP Planner,DEP-01,120,,false,Completed manufacturing event: production order closed
