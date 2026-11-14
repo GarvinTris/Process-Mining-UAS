@@ -163,4 +163,10 @@ UNION ALL SELECT 'duplicates removed', COUNT(*) FROM dq_removed_duplicates
 UNION ALL SELECT 'clean rows', COUNT(*) FROM celonis_event_log_clean
 UNION ALL SELECT 'rows with >=1 repair', COUNT(*) FROM dq_repair_log
 UNION ALL SELECT 'quarantined (irrecoverable)', 0;
-SELECT UNNEST(string_split(dq_repair_note,'|')) AS repair_type, COUNT(*) AS n FROM dq_repair_log GROUP BY 1 ORDER BY 2 DESC;
+SELECT repair_type, COUNT(*) AS n
+FROM (
+  SELECT UNNEST(string_split(dq_repair_note, '|')) AS repair_type
+  FROM dq_repair_log
+)
+GROUP BY 1
+ORDER BY 2 DESC;
