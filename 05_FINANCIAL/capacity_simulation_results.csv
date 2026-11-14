@@ -1,0 +1,12 @@
+scenario_id,option_group,description,wait_hours,sla_violations,surge_flow_days_from_order_arrival,surge_flow_days_inside_plant,surge_makespan_days,top_wait_stations
+S0,Baseline,Replay as-is (kalibrasi: aktual 2.851 jam wait / 277 SLA violation),2967,316,2.38,2.38,3.93,Paint Booth 1194h; Press Line 553h; Chassis Line 390h
+A45,A Rescheduling,Release smoothing: 1 order lonjakan dilepas tiap 45 menit,665,70,2.18,1.18,3.67,Paint Booth 562h; Assembly Line 33h; Curing Oven 12h
+A60,A Rescheduling,Release smoothing: 1 order lonjakan dilepas tiap 60 menit,257,0,2.25,0.92,3.78,Paint Booth 159h; Assembly Line 34h; Interior Station 9h
+A75,A Rescheduling,Release smoothing: 1 order lonjakan dilepas tiap 75 menit,96,0,2.48,0.82,4.43,Paint Booth 56h; Assembly Line 14h; Interior Station 4h
+B1,B Overtime,+2 Paint Technician,2956,317,2.38,2.38,3.93,Paint Booth 1202h; Press Line 553h; Chassis Line 390h
+B2,B Overtime,+2 Paint +1 Press Operator +1 Assembly Technician,2950,317,2.37,2.37,3.93,Paint Booth 1202h; Press Line 553h; Chassis Line 390h
+B3,B Overtime,"Staf sangat longgar (+5 Paint, +3 Press, +3 Assembly): uji batas atas efek staf",2950,317,2.37,2.37,3.93,Paint Booth 1202h; Press Line 553h; Chassis Line 390h
+C1,C Equipment,"+1 Paint Booth (2->3), staf tetap",2690,289,2.2,2.2,3.59,Press Line 553h; Paint Booth 456h; Chassis Line 390h
+C2,C Equipment,+1 Paint Booth + 3 Paint Technician,2537,274,2.11,2.11,3.37,Press Line 553h; Assembly Line 402h; Chassis Line 390h
+C3,C Equipment,+1 Press Line +1 Paint Booth +1 Chassis Line + staf pendukung,2101,244,1.96,1.96,3.21,Paint Booth 476h; Welding Cell 229h; Press Line 218h
+P1,D Proses,"Durasi Primer & Color Coat -10% (uji sensitivitas, bukan opsi biaya)",2755,310,2.24,2.24,3.69,Paint Booth 926h; Press Line 553h; Chassis Line 390h

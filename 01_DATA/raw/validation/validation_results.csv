@@ -1,0 +1,37 @@
+id,dimensi,uji,expected,actual,status
+V01,Uniqueness,event_id duplikat,0,0,PASS
+V02,Uniqueness,source_raw_row_id duplikat,0,0,PASS
+V03,Completeness,case_id/activity/timestamp NULL,0,0,PASS
+V04,Completeness,start/end/ready NULL,0,0,PASS
+V05,Validity,ready <= start < end dilanggar,0,0,PASS
+V06,Consistency,timestamp <> activity_end_time,0,0,PASS
+V07,Accuracy,duration <> end-start (menit),0,0,PASS
+V08,Accuracy,waiting <> start-ready (menit),0,0,PASS
+V09,Accuracy,case_elapsed <> end - arrival case,0,0,PASS
+V10,Validity,SLA flag <> (wait+duration > SLA),0,0,PASS
+V11,Finance,total <> labor+material+equipment+overhead,0,0,PASS
+V12,Finance,profit <> revenue - total,0,0,PASS
+V13,Finance,revenue >0 selain Vehicle Delivered,0,0,PASS
+V14,Finance,revenue <0 selain Authorized Sales Credit,0,0,PASS
+V15,Finance,case dengan >1 pengakuan revenue positif,0,0,PASS
+V16,Finance,Vehicle Delivered tanpa revenue >0,0,0,PASS
+V17,Finance,Invoice/Payment dengan revenue <> 0,0,0,PASS
+V18,Finance,currency <> EUR,0,0,PASS
+V19,Ref. integrity,case_id tidak di case_master,0,0,PASS
+V20,Ref. integrity,employee_id tidak di employee_master,0,0,PASS
+V21,Ref. integrity,resource_id <> employee_master / NULL,0,0,PASS
+V22,Ref. integrity,facility_id orphan,0,0,PASS
+V23,Ref. integrity,facility tidak sesuai tipe di activity_catalog / hilang padahal wajib,0,0,PASS
+V24,Ref. integrity,role/department <> activity_catalog,0,0,PASS
+V25,Ref. integrity,model/trim/vehicle <> case_master,0,0,PASS
+V26,Ref. integrity,activity di luar catalog,0,0,PASS
+V27,Capacity,overlap pada facility_id yang sama (kapasitas 1),0,0,PASS
+V28,Capacity,overlap pada employee duty-slot yang sama (kapasitas 1),0,0,PASS
+V29,Case path,case tanpa Production Order Received di awal,0,0,PASS
+V30,Case path,case tanpa Production Order Closed di akhir,0,0,PASS
+V31,Case path,case dengan >1 outcome (Delivered/Scrapped/Cancelled),0,0,PASS
+V32,Case path,jumlah case (harus = case_master),205,205,PASS
+V33,Preservation,Dynamic Road Test berulang (rework sah) dipertahankan,22,22,PASS
+V34,Preservation,Paint Rework Completed dipertahankan,26,26,PASS
+V35,Preservation,Supplier Shortage Resolved dipertahankan,38,38,PASS
+V36,Control,"quality-gate bypass (Delivered tanpa Final Quality Gate) - TEMUAN KENDALI, bukan error",4,4,PASS

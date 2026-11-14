@@ -1,0 +1,139 @@
+removed_raw_row_id,event_id,case_id,activity,kept_raw_row_id,reason
+RAW-0005778,EVT-0001481,CAR-000069,Electrical Harness Installed,RAW-0004886,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002120,EVT-0001931,CAR-000021,End-of-Line Electrical Test,RAW-0001362,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005478,EVT-0002235,CAR-000061,Primer Application Completed,RAW-0003695,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003532,EVT-0002261,CAR-000012,Final Torque Verification,RAW-0000140,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003188,EVT-0003216,CAR-000141,Electrical Harness Installed,RAW-0000184,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003690,EVT-0003941,CAR-000125,Body Dimensional Inspection,RAW-0003344,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001764,EVT-0005193,CAR-000178,Powertrain Installed,RAW-0000649,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005629,EVT-0005532,CAR-000174,Production Order Received,RAW-0003748,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004902,EVT-0005619,CAR-000176,Paint Defect Inspection,RAW-0003470,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003316,EVT-0000023,CAR-000001,Dynamic Road Test,RAW-0000076,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003455,EVT-0001065,CAR-000204,BOM and Routing Released,RAW-0003070,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005781,EVT-0001408,CAR-000046,Software Configuration Loaded,RAW-0004334,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002012,EVT-0002083,CAR-000055,Vehicle Dispatch Authorized,RAW-0001443,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004054,EVT-0002662,CAR-000052,Customer Payment Applied,RAW-0001613,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004613,EVT-0003181,CAR-000162,Parts Kitted,RAW-0000736,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003302,EVT-0003474,CAR-000184,Materials Availability Checked,RAW-0001151,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004339,EVT-0000549,CAR-000103,Electrical Harness Installed,RAW-0000119,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003952,EVT-0000784,CAR-000120,Interior Assembly Completed,RAW-0003670,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004129,EVT-0000784,CAR-000120,Interior Assembly Completed,RAW-0003670,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005029,EVT-0001472,CAR-000060,Materials Availability Checked,RAW-0002927,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003284,EVT-0001927,CAR-000045,Body Welding Completed,RAW-0002454,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002543,EVT-0001957,CAR-000060,Body Welding Completed,RAW-0001202,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004557,EVT-0002091,CAR-000047,Customer Payment Applied,RAW-0001303,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004739,EVT-0002507,CAR-000035,Vehicle Wash and Detailing,RAW-0001255,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005490,EVT-0002556,CAR-000039,Electrical Harness Installed,RAW-0000449,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003512,EVT-0002841,CAR-000045,Final Quality Gate Approved,RAW-0002879,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004427,EVT-0003189,CAR-000162,Surface Preparation Completed,RAW-0000764,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003615,EVT-0005254,CAR-000005,Software Configuration Loaded,RAW-0002484,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003239,EVT-0000300,CAR-000105,Body Welding Completed,RAW-0002928,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003637,EVT-0000642,CAR-000093,Dynamic Road Test,RAW-0001763,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004407,EVT-0001122,CAR-000023,Materials Availability Checked,RAW-0002356,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004400,EVT-0001520,CAR-000046,Final Quality Gate Approved,RAW-0002299,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005710,EVT-0001605,CAR-000029,Powertrain Installed,RAW-0004220,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004105,EVT-0001748,CAR-000028,Surface Preparation Completed,RAW-0002677,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003642,EVT-0001941,CAR-000031,Production Order Closed,RAW-0002855,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004186,EVT-0002376,CAR-000024,Production Order Closed,RAW-0000402,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002218,EVT-0002602,CAR-000052,Final Torque Verification,RAW-0001739,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003983,EVT-0003898,CAR-000071,Paint Curing Completed,RAW-0001684,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001113,EVT-0004243,CAR-000109,Dynamic Road Test,RAW-0000177,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005051,EVT-0005098,CAR-000168,Production Order Validated,RAW-0004445,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002754,EVT-0005134,CAR-000092,Body Dimensional Inspection,RAW-0002424,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001288,EVT-0005164,CAR-000170,Body Dimensional Inspection,RAW-0000741,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001918,EVT-0005610,CAR-000176,Primer Application Completed,RAW-0000258,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001337,EVT-0001127,CAR-000023,BOM and Routing Released,RAW-0001275,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004664,EVT-0004857,CAR-000153,Interior Assembly Completed,RAW-0003453,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004399,EVT-0005103,CAR-000168,Body Panels Stamped,RAW-0003993,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004961,EVT-0005702,CAR-000100,Body Panels Stamped,RAW-0002222,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002887,EVT-0000331,CAR-000105,Production Order Closed,RAW-0002165,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004152,EVT-0001454,CAR-000049,BOM and Routing Released,RAW-0000661,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003100,EVT-0003159,CAR-000128,ADAS Calibration Completed,RAW-0000439,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003244,EVT-0004315,CAR-000118,Body Panels Stamped,RAW-0001881,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002711,EVT-0004945,CAR-000080,ADAS Calibration Completed,RAW-0001854,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005107,EVT-0005282,CAR-000185,Electrical Harness Installed,RAW-0004333,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005299,EVT-0005447,CAR-000119,Final Torque Verification,RAW-0004409,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003662,EVT-0001247,CAR-000050,Materials Availability Checked,RAW-0001840,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002566,EVT-0001503,CAR-000062,Materials Availability Checked,RAW-0001820,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003490,EVT-0004490,CAR-000108,Color Coat Applied,RAW-0002358,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001588,EVT-0004515,CAR-000102,Body Welding Completed,RAW-0000383,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001565,EVT-0004739,CAR-000156,Production Order Received,RAW-0001285,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005432,EVT-0000550,CAR-000103,Software Configuration Loaded,RAW-0000683,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004800,EVT-0002129,CAR-000050,Powertrain Installed,RAW-0003608,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004743,EVT-0002672,CAR-000036,End-of-Line Electrical Test,RAW-0000279,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004923,EVT-0002935,CAR-000062,Vehicle Wash and Detailing,RAW-0003101,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004083,EVT-0003419,CAR-000088,Primer Application Completed,RAW-0000902,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005387,EVT-0003531,CAR-000143,Production Order Validated,RAW-0000001,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002493,EVT-0003624,CAR-000099,Body Welding Completed,RAW-0000518,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005821,EVT-0003749,CAR-000173,Primer Application Completed,RAW-0002857,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004633,EVT-0004008,CAR-000094,Dynamic Road Test,RAW-0002270,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005013,EVT-0004236,CAR-000109,Software Configuration Loaded,RAW-0004621,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005092,EVT-0004274,CAR-000121,Final Quality Gate Approved,RAW-0002546,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005455,EVT-0005070,CAR-000124,Vehicle Delivered,RAW-0001417,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005528,EVT-0005172,CAR-000170,Software Configuration Loaded,RAW-0000388,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005719,EVT-0005299,CAR-000110,Materials Availability Checked,RAW-0004575,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004272,EVT-0001575,CAR-000069,End-of-Line Electrical Test,RAW-0000361,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005311,EVT-0001609,CAR-000067,Body Dimensional Inspection,RAW-0001946,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005842,EVT-0002251,CAR-000009,Final Torque Verification,RAW-0001553,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001925,EVT-0002292,CAR-000012,Vehicle Wash and Detailing,RAW-0001716,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005682,EVT-0002870,CAR-000064,Dynamic Road Test,RAW-0003633,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004645,EVT-0003638,CAR-000099,Dynamic Road Test,RAW-0001559,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004061,EVT-0005560,CAR-000174,Powertrain Installed,RAW-0001164,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003872,EVT-0000074,CAR-000087,Color Coat Applied,RAW-0002697,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005732,EVT-0000143,CAR-000151,Final Torque Verification,RAW-0005442,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004460,EVT-0001689,CAR-000014,Body Welding Completed,RAW-0000396,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002227,EVT-0002024,CAR-000065,Body Dimensional Inspection,RAW-0001342,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004106,EVT-0003096,CAR-000167,Body Panels Stamped,RAW-0003180,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004493,EVT-0004478,CAR-000188,Production Order Closed,RAW-0000634,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003116,EVT-0004621,CAR-000086,Sales Invoice Posted,RAW-0002157,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002229,EVT-0005165,CAR-000170,Surface Preparation Completed,RAW-0002203,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002682,EVT-0000180,CAR-000117,Sales Invoice Posted,RAW-0001924,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005654,EVT-0000860,CAR-000181,Chassis Assembly Completed,RAW-0001777,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0000699,EVT-0002345,CAR-000024,Interior Assembly Completed,RAW-0000225,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003336,EVT-0002408,CAR-000037,Paint Defect Inspection,RAW-0003148,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005553,EVT-0002584,CAR-000036,Electrical Harness Installed,RAW-0002015,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005797,EVT-0003541,CAR-000143,Color Coat Applied,RAW-0001579,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005670,EVT-0005355,CAR-000154,Production Order Validated,RAW-0001732,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003434,EVT-0001490,CAR-000033,Supplier Shortage Resolved,RAW-0002812,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003509,EVT-0002153,CAR-000051,Sales Invoice Posted,RAW-0001672,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005022,EVT-0002715,CAR-000060,Software Configuration Loaded,RAW-0002941,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004202,EVT-0002898,CAR-000064,Sales Invoice Posted,RAW-0000891,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004510,EVT-0003198,CAR-000162,Electrical Harness Installed,RAW-0001694,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001217,EVT-0003201,CAR-000162,ADAS Calibration Completed,RAW-0000549,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003319,EVT-0003201,CAR-000162,ADAS Calibration Completed,RAW-0000549,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002691,EVT-0004685,CAR-000187,End-of-Line Electrical Test,RAW-0002111,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005246,EVT-0004815,CAR-000190,Primer Application Completed,RAW-0002320,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005186,EVT-0005173,CAR-000170,ADAS Calibration Completed,RAW-0000726,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004691,EVT-0001464,CAR-000061,BOM and Routing Released,RAW-0000953,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003019,EVT-0001474,CAR-000055,Chassis Assembly Completed,RAW-0000552,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002284,EVT-0001615,CAR-000050,Body Welding Completed,RAW-0000042,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004424,EVT-0004997,CAR-000131,Color Coat Applied,RAW-0002393,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002070,EVT-0001673,CAR-000069,Vehicle Dispatch Authorized,RAW-0001243,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005390,EVT-0002458,CAR-000017,Vehicle Dispatch Authorized,RAW-0004869,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001322,EVT-0002675,CAR-000008,Final Quality Gate Approved,RAW-0000118,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003495,EVT-0003184,CAR-000141,Chassis Assembly Completed,RAW-0003057,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005034,EVT-0003609,CAR-000165,Dynamic Road Test,RAW-0002178,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002088,EVT-0004749,CAR-000156,Primer Application Completed,RAW-0001740,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003119,EVT-0005205,CAR-000178,Sales Invoice Posted,RAW-0000896,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001156,EVT-0000232,CAR-000182,Interior Assembly Completed,RAW-0000768,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003543,EVT-0000473,CAR-000138,Sales Invoice Posted,RAW-0000996,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003813,EVT-0000552,CAR-000103,ADAS Calibration Completed,RAW-0002084,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003733,EVT-0000865,CAR-000181,Color Coat Applied,RAW-0001688,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005395,EVT-0001614,CAR-000026,Chassis Assembly Completed,RAW-0000779,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005214,EVT-0002509,CAR-000044,Final Torque Verification,RAW-0002295,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003678,EVT-0004392,CAR-000172,Production Order Validated,RAW-0002556,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005440,EVT-0004493,CAR-000108,Powertrain Installed,RAW-0001174,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004847,EVT-0004799,CAR-000195,Vehicle Dispatch Authorized,RAW-0003363,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003400,EVT-0005638,CAR-000176,Vehicle Wash and Detailing,RAW-0001539,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0001307,EVT-0000318,CAR-000126,Sales Invoice Posted,RAW-0000037,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002921,EVT-0000596,CAR-000203,Parts Kitted,RAW-0001650,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002273,EVT-0000780,CAR-000120,Powertrain Installed,RAW-0000781,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004359,EVT-0001710,CAR-000024,Body Dimensional Inspection,RAW-0003515,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0004003,EVT-0001993,CAR-000034,Sales Invoice Posted,RAW-0000884,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002784,EVT-0002382,CAR-000037,Color Coat Applied,RAW-0001349,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005855,EVT-0002757,CAR-000045,Interior Assembly Completed,RAW-0002633,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005462,EVT-0002811,CAR-000066,Vehicle Wash and Detailing,RAW-0002936,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005686,EVT-0003022,CAR-000101,Production Order Closed,RAW-0002037,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0003087,EVT-0004129,CAR-000194,Customer Payment Applied,RAW-0001316,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0002610,EVT-0005035,CAR-000150,End-of-Line Electrical Test,RAW-0000565,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik
+RAW-0005040,EVT-0005276,CAR-000185,Surface Preparation Completed,RAW-0003361,SOURCE_DUPLICATE: event_id sama setelah TRIM+UPPER; isi bisnis identik

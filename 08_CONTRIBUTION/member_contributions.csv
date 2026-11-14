@@ -1,0 +1,7 @@
+member_name,student_id,role,primary_deliverables,verifiable_evidence_path,rubric_area,notes
+[ISI NAMA ANGGOTA 1],[ISI NIM],Data Engineer (profiling & cleaning),"01_profiling.sql, 02_cleaning.sql, data_quality_report.md","02_SQL/01_profiling.sql; 02_SQL/02_cleaning.sql; 01_DATA/validation/","Data Preparation and Validation",ISI SETELAH DIVERIFIKASI KELOMPOK
+[ISI NAMA ANGGOTA 2],[ISI NIM],Validation & Export Lead,"03_validation.sql, 05_celonis_export.sql, cleaned CSV, re-import audit","02_SQL/03_validation.sql; 01_DATA/cleaned/","Data Preparation and Validation",ISI SETELAH DIVERIFIKASI KELOMPOK
+[ISI NAMA ANGGOTA 3],[ISI NIM],Celonis Analyst (Q01-Q03),"Process map, variants, performance; jawaban Q01-Q03","03_CELONIS_EVIDENCE/process_map; 04_JAWABAN/Q01-Q03/","Descriptive Analysis",ISI SETELAH DIVERIFIKASI KELOMPOK
+[ISI NAMA ANGGOTA 4],[ISI NIM],Diagnostic Analyst (Q04-Q06),"Rework, shortage, resource & simulasi kapasitas; jawaban Q04-Q06","02_SQL/python_support/; 04_JAWABAN/Q04-Q06/","Diagnostic Analysis",ISI SETELAH DIVERIFIKASI KELOMPOK
+[ISI NAMA ANGGOTA 5],[ISI NIM],Financial & Scenario Analyst (Q07-Q10),"04_financial_analysis.sql, scenario_assumptions.md, scenario_comparison.csv, kurs BI","05_FINANCIAL/; 04_JAWABAN/Q07-Q10/","Financial Analysis and IDR; Prescriptive Analysis",ISI SETELAH DIVERIFIKASI KELOMPOK
+[ISI NAMA ANGGOTA 6 / opsional],[ISI NIM],Presentation & Executive Summary Lead,"slides.pdf, executive_summary.pdf, latihan 15 menit","06_PRESENTATION/; 07_EXECUTIVE_SUMMARY/","Delivery & Time Management",ISI SETELAH DIVERIFIKASI KELOMPOK

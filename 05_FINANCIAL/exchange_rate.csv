@@ -1,0 +1,2 @@
+currency,reference_date,kurs_jual_bi_idr,kurs_beli_bi_idr,reference_idr_per_1_unit,unit,source,formula
+EUR,2026-10-13,20154.30,19950.21,20052.255,1 EUR,"Bank Indonesia - Kurs Transaksi BI (https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/default.aspx)","(Kurs Jual + Kurs Beli) / 2"
