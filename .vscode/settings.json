@@ -1,0 +1,20 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "DuckDB",
+      "name": "Automotive UAS",
+      "database": "automotive.duckdb"
+    }
+  ],
+  "sqltools.useNodeRuntime": true,
+  "duckdb.defaultDatabase": "celonis_event_log_clean",
+  "duckdb.databases": [
+    {
+      "alias": "celonis_event_log_clean",
+      "type": "file",
+      "path": "/Users/macbook/Documents/UAS PROCESS DATA MINING/Process-Mining-UAS/UAS Process Data Mining/01_DATA/raw/validation/celonis_event_log_clean.duckdb",
+      "attached": true
+    }
+  ]
+}
